@@ -27,7 +27,7 @@
 
 **Optional**
 
-Fork this repo so you can run the following one liner with your own IP Address and Port number:
+Fork this repo so you can run the following one liner with your own IP Address and Port number straight from Github:
 
 
 **NOTE: Replace the URL with your own forked repo.** 
