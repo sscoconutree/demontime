@@ -7,6 +7,8 @@
 ![image](https://github.com/aaronquiamco/experiment/assets/59388557/2f24cc8b-af55-429a-a7ac-97786da28d29)
 
 2. Use the Python script to convert the PowerShell reverse shell one liner characters to its Unicode format.
+![image](https://github.com/aaronquiamco/experiment/assets/59388557/ad971d49-e938-491b-92d8-27838499b5fa)
+
 3. Replace the Unicode payload on the demontime.ps1 script with the output generated from the Python script.
 
 **Optional**
