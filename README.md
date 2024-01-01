@@ -12,6 +12,7 @@
 Fork this repo so you can run the following one liner:
 **NOTE: Replace the URL with your own forked repo.** 
 
-`iex -Debug -Verbose -ErrorVariable $e -InformationAction Ignore -WarningAction Inquire ((New-Object 	System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/xxxxxx/experiment/main/demontime.ps1'));demontime`
+iex -Debug -Verbose -ErrorVariable $e -InformationAction Ignore -WarningAction Inquire (New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/xxxxxx/experiment/main/demontime.ps1');demontime
+
 
 
