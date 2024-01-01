@@ -1,6 +1,6 @@
-<h1>DEMONTIME</h1>
+<h3>DEMONTIME</h3>
 
-**PowerShell reverse shell that can bypass Windows Defender **
+<h1>**Heavily obfuscated PowerShell reverse shell that can bypass Windows Defender **</h1>
 
 ![image](https://github.com/aaronquiamco/demontime/assets/59388557/5958a915-6c07-42d4-8dda-dcc14cd0d9b4)
 
