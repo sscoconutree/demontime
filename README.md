@@ -6,7 +6,7 @@
 
 
 
-⚠️ Disclaimer: Employing the methods and principles outlined in this repository to obtain unauthorized entry into systems without proper authorization is against the law. You are accountable for your conduct. Act responsibly and refrain from engaging in malicious activities. This is for education purposes only
+⚠️ Disclaimer: Employing the methods and principles outlined in this repository to obtain unauthorized entry into systems without proper authorization is against the law. You are accountable for your conduct. Act responsibly and refrain from engaging in malicious activities. This is for education purposes only.
 
 
 <h2>Instructions</h2>
