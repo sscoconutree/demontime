@@ -27,7 +27,7 @@ function Invoke-GuzziBelt {
     [Console]::SetOut($StringWriter);
     
     # Call main method
-    [Seatbelt.Program]::Main($args.Split(" "));
+    [GuzziBelt.Program]::Main($args.Split(" "));
     
     # Reset STDOUT
     [Console]::SetOut($OldConsoleOut);
